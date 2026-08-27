@@ -58,8 +58,7 @@
 * NLP Dataset Preparation
 * Annotation Quality Assurance
 
-  <img src="./clean_table_no_header.png" width ="600">
-
+ <img src="./clean_table_no_header.png" width="350" style="image-rendering: crisp-edges;">
 ### Quality Assurance Approach
 
 ---
