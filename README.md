@@ -19,8 +19,6 @@
 *  Computer use and screen based tasks
 *  Video Annotation & action Verification
 *  AI Agent Testing & Evaluation
-*  Dataset reation & Validation
-*  Computer Vision Model Training
 
 
 ---
@@ -103,28 +101,28 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
    <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
 
  ## 2. Kitchen Object & Area Segmentation
-Annotation Type: Semantic Segmentation
+Annotation Type: Polygon Annotation
 
 Tool: CVAT, V7, Classes Annotated
-* wall
-* floor
-* ceiling
-* cabinet
-* table
-* chair
-* refrigerator
-* window
+* Mug
+* Person
+* Chair
+* Dining Table
+* Sink
+* Faucet
 
 ### Project Summary
-Annotated kitchen-scene images using semantic segmentation to create precise pixel-level labels for people and relevant scene regions. These annotations help train computer vision models to accurately understand object boundaries, distinguish different regions, and improve pixel-level scene understanding.
+Annotated kitchen and dining-scene objects using polygon annotation to create precise object boundaries. These annotations help train computer vision models to accurately detect, recognize, and understand objects and their shapes within images.
 
 ### Skills Demonstrated
 
-* Pixel-Level Annotation
-* Object & Region Identification
+* Polygon Annotation
+* Object Identification
+* Precise Boundary Annotation
 * Annotation QA & Accuracy
 
- <img src="./ed12a9b4-8120-44a5-a54c-808e7c554e99.png" width ="600">
+<img src="./gf.PNG" width="600">
+
 
   
 
