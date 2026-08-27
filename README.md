@@ -123,6 +123,10 @@ Annotated kitchen and dining-scene objects using polygon annotation to create pr
 
 <img src="./gf2.jfif" width="600">
 
+Polygon annotations across different objects and scenes, demonstrating accurate boundary labeling.
+
+
+<img src="./adiitional.jfif" width="600">
 
   
 
