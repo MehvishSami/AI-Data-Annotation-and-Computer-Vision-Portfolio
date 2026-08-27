@@ -121,7 +121,7 @@ Annotated kitchen and dining-scene objects using polygon annotation to create pr
 * Precise Boundary Annotation
 * Annotation QA & Accuracy
 
-<img src="./gf.PNG" width="600">
+<img src="./gf2.jfif" width="600">
 
 
   
