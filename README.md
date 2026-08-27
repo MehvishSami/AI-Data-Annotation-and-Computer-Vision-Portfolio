@@ -6,17 +6,8 @@
 
 **Hello! I'm Mehvish Sami, an AI Evaluation and Data Annotation Specialist passionate about improving AI systems through high-quality evaluation, annotation, and quality assurance.I work on AI-generated task evaluation, annotation review and correction, and computer vision datasets to support accurate and reliable AI systems.**
 
-
 ---
-# Projects
-
-* 1. AI Evaluation & Text projects
-* 2. Image Annotation Projects
-* 3. Video Annotation & Verification
-* 4. AI Agent Testing & Computer Use
-
----
-# Skills & Expertise
+## Skills & Expertise
 
 *  AI Evaluation
 *  Data Annotation
@@ -29,6 +20,12 @@
 
 
 ---
+# Projects
+
+* 1. AI Evaluation & Text projects
+* 2. Image Annotation Projects
+* 3. Video Annotation & Verification
+* 4. AI Agent Testing & Computer Use
 
 # AI Evaluation & Text Projects
 
@@ -107,7 +104,7 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 
    <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
 
- ## 2. Kitchen Object & Area Segmentation
+ ## 2. Kitchen Object Annotation
 Annotation Type: Polygon Annotation
 
 Tool: CVAT, V7, Classes Annotated
