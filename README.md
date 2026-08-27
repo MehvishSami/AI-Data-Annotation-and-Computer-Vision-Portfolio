@@ -4,7 +4,7 @@
 
 
 
-**Hello! I'm Mehvish Sami, an AI Evaluation and Data Annotation Specialist passionate about improving AI systems through high-quality evaluation, annotation, and quality assurance. I work with AI-generated task, annotation review and correction, and computer vision datasets to support accurate and reliable model training.**
+**Hello! I'm Mehvish Sami, an AI Evaluation and Data Annotation Specialist passionate about improving AI systems through high-quality evaluation, annotation, and quality assurance.I work on AI-generated task evaluation, annotation review and correction, and computer vision datasets to support accurate and reliable AI systems.**
 
 
 ---
@@ -16,14 +16,16 @@
 *  Annotation Quality Assurance (QA)
 *  Computer Use Agent Tasks
 *  Annotation Error Detection & Correction
-*  Object & Action Verification
-*   Dataset Creation & Validation
-*   Computer Vision Model Training
+*  Computer use and screen based tasks
+*  Video Annotation & action Verification
+*  AI Agent Testing & Evaluation
+*  Dataset reation & Validation
+*  Computer Vision Model Training
 
 
 ---
 
-# Projects
+# AI Evaluation & Text Projects
 
 ## 1. Content Moderation
 
@@ -77,8 +79,8 @@
 
 # Image Annotation Projects
 
-## 1. Vehicle & Object Detection
-Annotation Type: Bounding Box object detection
+## 1. Vehicle & Object Annotation
+Annotation Type: Bounding Box object annotation
 
 Tool: CVAT, V7, Labelbox, LabelImg, Classes Annotated
 
@@ -92,6 +94,13 @@ Tool: CVAT, V7, Labelbox, LabelImg, Classes Annotated
 ### Project Summary
 Annotated traffic scene images by creating accurate bounding boxes around vehicles, pedestrians, and other relevant objects and assigning the appropriate class labels according to project guidelines. The annotations were prepared for computer vision dataset development and model evaluation.
 
+### Work Performed:
+
+* Identified target objects in images
+* Assigned appropriate object classes
+* Reviewed annotations for errors
+* Maintained consistency across large datasets
+
 ### Skills Demonstrated
 
 * Bounding box quality control
@@ -102,3 +111,9 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Pedestrian identification
 * Occlusion Handling
 * Dataset validation
+
+  
+
+
+
+
