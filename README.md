@@ -112,7 +112,8 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Occlusion Handling
 * Dataset validation
 
-   <img src="./ed12a9b4-8120-44a5-a54c-808e7c554e99.png" width ="600">
+   <img src="./9d405689-ee7c-45ec-8d39-05f0ab8f54fb.jfif" width ="600">
+  
 
 
 
