@@ -8,8 +8,15 @@
 
 
 ---
+# Projects
 
-## Skills & Expertise
+### 1. AI Evaluation & Text projects
+### 2. Image Annotation Projects
+### 3. Video Annotation & Verification
+### 4. AI Agent Testing & Computer Use
+
+---
+# Skills & Expertise
 
 *  AI Evaluation
 *  Data Annotation
