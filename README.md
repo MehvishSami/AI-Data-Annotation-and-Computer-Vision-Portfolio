@@ -38,14 +38,7 @@
 * Annotation Quality Assurance
 * Annotation Guideline Application
 
-
-| Text                           |       Label         |           Reason                       |
-| ------------------------------------------ | -------------- | -------------------------------- |
-| “I hope you have a great day!”             | **Safe**       | No harmful content               |
-| “I will hurt you if you come near me.”     | **Threat**     | Contains a direct threat of harm |
-| “You are stupid and worthless.”            | **Harassment** | Insulting and abusive language   |
-| “Click this link now to claim your prize!” | **Spam**       | Unsolicited promotional content  |
-| “Go kill yourself.”                        | **Harmful**    | Encourages serious self-harm     |
+<img src="./dfgdgf.png" width ="600">
 
 
 ## 2. Sentiment Analysis
@@ -58,32 +51,13 @@
 * NLP Dataset Preparation
 * Annotation Quality Assurance
 
-<table>
-  <tr style="background-color:#000000; color:#ffffff;">
-    <th>Review</th>
-    <th>Sentiment</th>
-  </tr>
-  <tr style="background-color:#000000; color:#ffffff;">
-    <td>“I love this product!”</td>
-    <td><strong>Positive</strong></td>
-  </tr>
-  <tr style="background-color:#000000; color:#ffffff;">
-    <td>“The service was excellent.”</td>
-    <td><strong>Positive</strong></td>
-  </tr>
-  <tr style="background-color:#000000; color:#ffffff;">
-    <td>“I hate this product.”</td>
-    <td><strong>Negative</strong></td>
-  </tr>
-  <tr style="background-color:#000000; color:#ffffff;">
-    <td>“The service was terrible.”</td>
-    <td><strong>Negative</strong></td>
-  </tr>
-  <tr style="background-color:#000000; color:#ffffff;">
-    <td>“The product is okay.”</td>
-    <td><strong>Neutral</strong></td>
-  </tr>
-</table>
+| Review                       | Sentiment    |
+| ---------------------------- | ------------ |
+| “I love this product!”       | **Positive** |
+| “The service was excellent.” | **Positive** |
+| “I hate this product.”       | **Negative** |
+| “The service was terrible.”  | **Negative** |
+| “The product is okay.”       | **Neutral**  |
 
 ### Quality Assurance Approach
 
