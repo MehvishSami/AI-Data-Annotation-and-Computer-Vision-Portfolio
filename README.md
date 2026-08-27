@@ -58,13 +58,32 @@
 * NLP Dataset Preparation
 * Annotation Quality Assurance
 
-| Review                       | Sentiment     |
-| ---------------------------- | ------------- |
-| “I love this product!”       | **Positive**  |
-| “The service was excellent.” | **Positive**  |
-| “I hate this product.”       | **Negative**  |
-| “The service was terrible.”  | **Negative**  |
-| “The product is okay.”       | **Neutral**   |
+<table>
+  <tr style="background-color:#000000; color:#ffffff;">
+    <th>Review</th>
+    <th>Sentiment</th>
+  </tr>
+  <tr style="background-color:#000000; color:#ffffff;">
+    <td>“I love this product!”</td>
+    <td><strong>Positive</strong></td>
+  </tr>
+  <tr style="background-color:#000000; color:#ffffff;">
+    <td>“The service was excellent.”</td>
+    <td><strong>Positive</strong></td>
+  </tr>
+  <tr style="background-color:#000000; color:#ffffff;">
+    <td>“I hate this product.”</td>
+    <td><strong>Negative</strong></td>
+  </tr>
+  <tr style="background-color:#000000; color:#ffffff;">
+    <td>“The service was terrible.”</td>
+    <td><strong>Negative</strong></td>
+  </tr>
+  <tr style="background-color:#000000; color:#ffffff;">
+    <td>“The product is okay.”</td>
+    <td><strong>Neutral</strong></td>
+  </tr>
+</table>
 
 ### Quality Assurance Approach
 
@@ -112,7 +131,8 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Occlusion Handling
 * Dataset validation
 
-   <img src="./Gemini_Generated_Image_87x23287x23287x2.jfif" width ="600">
+   <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
+  
    
 
 
