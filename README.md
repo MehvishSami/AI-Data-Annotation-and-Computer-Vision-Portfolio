@@ -38,13 +38,8 @@
 * Annotation Quality Assurance
 * Annotation Guideline Application
 
-| Text                           |       Label         |           Reason                       |
-| ------------------------------------------ | -------------- | -------------------------------- |
-| “I hope you have a great day!”             | **Safe**       | No harmful content               |
-| “I will hurt you if you come near me.”     | **Threat**     | Contains a direct threat of harm |
-| “You are stupid and worthless.”            | **Harassment** | Insulting and abusive language   |
-| “Click this link now to claim your prize!” | **Spam**       | Unsolicited promotional content  |
-| “Go kill yourself.”                        | **Harmful**    | Encourages serious self-harm     |
+<img src="./Gemini_Generated_Image_d33nngd33nngd33n.jfif" width ="600">
+
 
 
 
