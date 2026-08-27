@@ -101,8 +101,33 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Dataset validation
 
    <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
+
+ ## 2. Kitchen Object & Area Segmentation
+Annotation Type: Semantic Segmentation
+
+Tool: CVAT, V7, Classes Annotated
+* wall
+* floor
+* ceiling
+* cabinet
+* table
+* chair
+* refrigerator
+* window
+
+### Project Summary
+Annotated kitchen-scene images using semantic segmentation to create precise pixel-level labels for people and relevant scene regions. These annotations help train computer vision models to accurately understand object boundaries, distinguish different regions, and improve pixel-level scene understanding.
+
+### Skills Demonstrated
+
+* Pixel-Level Annotation
+* Object & Region Identification
+* Annotation QA & Accuracy
+
+ <img src="./ed12a9b4-8120-44a5-a54c-808e7c554e99.png" width ="600">
+
   
-   
+
 
 
   
