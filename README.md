@@ -60,9 +60,16 @@
 
 
  ## 3. Named Entity Recognition (NER)
-  Annotation Type: Text Annotation / Named Entity Recognition   Tool: LabelBox
+  Tool: LabelBox
   ### Project Summary
 Annotated text data by identifying and labeling entities such as People, Organizations, Locations, Dates, and other relevant entities. The annotations were reviewed for accuracy and consistency to support high-quality NLP datasets and AI systems.
+
+### Skills Demonstrated
+
+* Named Entity Recognition (NER)
+* Text Annotation
+* Entity Classification
+* Annotation Quality Assurance (QA)
     
 ### Quality Assurance Approach
 
