@@ -109,11 +109,9 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 
 * Bounding box quality control
 * Multi-Class Object Detection
-* Bounding box annotation
 * Crowd Annotation
 * Vehicle identification
 * Pedestrian identification
-* Occlusion Handling
 * Dataset validation
 
    <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
@@ -121,32 +119,38 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
    
    <img src="./Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">
 
- ## 2. ## Image Segmentation & Polygon Annotation
+ ## 2. Image Segmentation & Polygon Annotation
 Annotation Type: Polygon & Segmentation Annotation 
 
 Tool: V7/CVAT
 
 ### Project Summary
-Annotated diverse real-world images for AI and Machine Learning applications using precise polygon-based segmentation. Created detailed object boundaries across indoorscenes, sports environments, and traffic/transportation scenes to support high-quality Computer Vision datasets and improve AI models' ability to detect, segment, and understand objects in complex environments.
+Annotated diverse real-world images using precise polygon, segmentation, and keypoint annotation to create high-quality Computer Vision datasets. Focused on accurate object boundaries, human contours, and annotation consistency to support AI models in object detection, segmentation, tracking, and scene understanding.
+
+### Challenges Faced:
+
+* Complex object boundaries
+* Overlapping & occluded objects
+* Small and distant objects
+* Consistent annotation across scenes
+* Accurate human contours & keypoints
 
 ### Skills Demonstrated
 
-* Polygon & Semantic Segmentation
-* Complex Object Boundary Annotation
-* Fine-Edge & Vertex Precision
-* Multi-Class Object Labeling
-* Human Pose & Contour Annotation
-* Small / Distant Object Segmentation
-* Overlapping Object Handling
-* Computer Vision Dataset Preparation
-* Annotation Quality & Consistency
+Polygon & Segmentation Annotation
+* Keypoint Annotation
+* Object Boundary Precision
+* Human Contour & Pose Annotation
+* Multi-Class Labeling
+* Occlusion Handling
+* Annotation Quality Assurance
+* Computer Vision Data Annotation
 
-<img src="./gf3.jfif" width="600">
-
+<img src="./combined-image.jpg" width="600">
 
 <img src="./adiitional.jfif" width="600">
 
-<img src="./combined-image.jpg" width="600">
+<img src="./gf3.jfif" width="600">
 
   
 
