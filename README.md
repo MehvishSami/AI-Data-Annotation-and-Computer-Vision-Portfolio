@@ -149,7 +149,8 @@ Polygon annotations across different objects and scenes, demonstrating accurate 
 
 <img src="./adiitional.jfif" width="600">
 
- <img src="./capyuy.PNG" width="600">
+<img src="./combined-image.jpg" width="600">
+
   
 
 
