@@ -44,7 +44,6 @@
 
 
 
-
 ## 2. Sentiment Analysis
 
 ### Skills Demonstrated
@@ -118,6 +117,9 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Dataset validation
 
    <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
+   
+   
+   <img src="./Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">
 
  ## 2. Kitchen Object Annotation
 Annotation Type: Polygon Annotation
