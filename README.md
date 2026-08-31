@@ -156,6 +156,30 @@ Polygon & Segmentation Annotation
 
 <img src="./gf3.jfif" width="600">
 
+# AI Agents & Computer Use
+
+## 1. AI Agent Testing & Evaluation
+
+### Project Summary
+Evaluated AI agents on predefined tasks by checking instruction following, actions, and expected outcomes. Identified errors and validated task results to support accurate and reliable AI agent performance.
+
+### Work Performed:
+
+* Verified objects and actions in videos.
+* Checked descriptions and action sequences.
+* Identified annotation errors and mismatches.
+* Provided corrections and feedback.
+* Ensured video data accuracy and consistency.
+
+### Skills Demonstrated
+
+* AI Agent Evaluation
+* Instruction Following
+* Action Verification
+* Object Verification
+* Error Identification
+* Sequence verification
+* QA Feedback
   
 
 
