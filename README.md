@@ -70,7 +70,7 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 * Entity Classification
 * Annotation Quality Assurance (QA)
 
- <img src="./text.jfif" width ="600">
+ <img src="./text3.jfif" width ="600">
     
 ### Quality Assurance Approach
 
