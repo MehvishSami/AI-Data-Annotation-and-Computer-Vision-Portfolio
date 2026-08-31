@@ -69,6 +69,8 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 * Text Annotation
 * Entity Classification
 * Annotation Quality Assurance (QA)
+
+ <img src="./text.jfif" width ="600">
     
 ### Quality Assurance Approach
 
@@ -120,7 +122,7 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
    <img src="./Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">
 
  ## 2. Image Segmentation & Polygon Annotation
-Annotation Type: Polygon & Segmentation Annotation 
+Annotation Type: Polygon & Segmentation Annotation       
 
 Tool: V7/CVAT
 
@@ -145,6 +147,8 @@ Polygon & Segmentation Annotation
 * Occlusion Handling
 * Annotation Quality Assurance
 * Computer Vision Data Annotation
+
+• Sports & Player Annotation   • Traffic & Transportation Annotation   • Indoor & Kitchen Annotation 
 
 <img src="./combined-image.jpg" width="600">
 
