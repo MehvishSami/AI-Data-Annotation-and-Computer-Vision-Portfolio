@@ -121,30 +121,27 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
    
    <img src="./Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">
 
- ## 2. Kitchen Object Annotation
-Annotation Type: Polygon Annotation
+ ## 2. ## Image Segmentation & Polygon Annotation
+Annotation Type: Polygon & Segmentation Annotation 
 
-Tool: CVAT, V7, Classes Annotated
-* Mug
-* Person
-* Chair
-* Dining Table
-* Sink
-* Faucet
+Tool: V7/CVAT
 
 ### Project Summary
-Annotated kitchen and dining-scene objects using polygon annotation to create precise object boundaries. These annotations help train computer vision models to accurately detect, recognize, and understand objects and their shapes within images.
+Annotated diverse real-world images for AI and Machine Learning applications using precise polygon-based segmentation. Created detailed object boundaries across indoorscenes, sports environments, and traffic/transportation scenes to support high-quality Computer Vision datasets and improve AI models' ability to detect, segment, and understand objects in complex environments.
 
 ### Skills Demonstrated
 
-* Polygon Annotation
-* Object Identification
-* Precise Boundary Annotation
-* Annotation QA & Accuracy
+* Polygon & Semantic Segmentation
+* Complex Object Boundary Annotation
+* Fine-Edge & Vertex Precision
+* Multi-Class Object Labeling
+* Human Pose & Contour Annotation
+* Small / Distant Object Segmentation
+* Overlapping Object Handling
+* Computer Vision Dataset Preparation
+* Annotation Quality & Consistency
 
 <img src="./gf3.jfif" width="600">
-
-Polygon annotations across different objects and scenes, demonstrating accurate boundary labeling.
 
 
 <img src="./adiitional.jfif" width="600">
