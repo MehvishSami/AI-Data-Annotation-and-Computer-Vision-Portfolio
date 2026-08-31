@@ -56,6 +56,14 @@
 * Annotation Quality Assurance
 
  <img src="./clean_table_no_header.png" width="350" style="image-rendering: crisp-edges;">
+
+
+
+ ## 3. Named Entity Recognition (NER)
+  Annotation Type: Text Annotation / Named Entity Recognition   Tool: LabelBox
+  ### Project Summary
+Annotated text data by identifying and labeling entities such as People, Organizations, Locations, Dates, and other relevant entities. The annotations were reviewed for accuracy and consistency to support high-quality NLP datasets and AI systems.
+    
 ### Quality Assurance Approach
 
 ---
