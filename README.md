@@ -114,7 +114,6 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Crowd Annotation
 * Vehicle identification
 * Pedestrian identification
-* Dataset validation
 
    <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
    
@@ -156,14 +155,14 @@ Polygon & Segmentation Annotation
 
 <img src="./gf3.jfif" width="600">
 
-# AI Agents and Computer Use
+# AI Agents & Computer Use
 
 ## 1. Video Annotation & action Verification
 
 ### Project Summary
 Reviewed and verified video annotations to ensure that objects, actions, descriptions, and their sequence accurately matched the visual content. This process helped maintain high-quality, consistent training data for AI systems that learn to understand activities and events in video.
 
-### Challenges Faced During Verification
+### Challenges Faced
 
 * Identifying ambiguous or unclear actions.
 * Detecting description and sequence mismatches.
