@@ -4,7 +4,7 @@
 
 
 
-**Hello! I'm Mehvish Sami, an AI Evaluation and Data Annotation Specialist passionate about improving AI systems through high-quality evaluation, annotation, and quality assurance.I work on AI-generated task evaluation, annotation review and correction, and computer vision datasets to support accurate and reliable AI systems.**
+**Hello! I'm Mehvish Sami, an AI Evaluation and Data Annotation Specialist passionate about improving AI systems through high-quality evaluation, annotation, and quality assurance.I work on AI-generated task evaluation, annotation review, correction and computer vision datasets to support accurate and reliable AI systems.**
 
 ---
 ## Skills & Expertise
@@ -156,30 +156,25 @@ Polygon & Segmentation Annotation
 
 <img src="./gf3.jfif" width="600">
 
-# AI Agents & Computer Use
+# AI Agents and Computer Use
 
-## 1. AI Agent Testing & Evaluation
+## 1. Video Annotation & Verification
 
 ### Project Summary
-Evaluated AI agents on predefined tasks by checking instruction following, actions, and expected outcomes. Identified errors and validated task results to support accurate and reliable AI agent performance.
-
-### Work Performed:
-
-* Verified objects and actions in videos.
-* Checked descriptions and action sequences.
-* Identified annotation errors and mismatches.
-* Provided corrections and feedback.
-* Ensured video data accuracy and consistency.
+Reviewed and verified video annotations to ensure that objects, actions, descriptions, and their sequence accurately matched the visual content. This process helped maintain high-quality, consistent training data for AI systems that learn to understand activities and events in video.
 
 ### Skills Demonstrated
 
-* AI Agent Evaluation
-* Instruction Following
-* Action Verification
-* Object Verification
-* Error Identification
-* Sequence verification
-* QA Feedback
+* Video Annotation
+* Action & Object Verification
+* Sequence Verification
+* Description Verification
+* Video QA
+* Error Detection
+* QA & Feedback
+* AI/ML Data Quality
+
+
   
 
 
