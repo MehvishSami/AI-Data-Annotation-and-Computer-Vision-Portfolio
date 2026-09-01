@@ -158,12 +158,12 @@ Polygon & Segmentation Annotation
 
 # AI Agents and Computer Use
 
-## 1. Video Annotation & Verification
+## 1. Video Annotation & action Verification
 
 ### Project Summary
 Reviewed and verified video annotations to ensure that objects, actions, descriptions, and their sequence accurately matched the visual content. This process helped maintain high-quality, consistent training data for AI systems that learn to understand activities and events in video.
 
-### Issues Faced During verfication
+### Challenges Faced During Verification
 
 * Identifying ambiguous or unclear actions.
 * Detecting description and sequence mismatches.
