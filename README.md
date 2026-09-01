@@ -12,7 +12,7 @@
 *  AI Evaluation
 *  Data Annotation
 *  Annotation Quality Assurance (QA)
-*  Computer Use Agent Tasks
+*  AI Agent Testing
 *  Annotation Error Detection & Correction
 *  Computer use and screen based tasks
 *  Video Annotation & action Verification
@@ -22,14 +22,14 @@
 ---
 # Projects
 
-* 1. AI Evaluation & Text projects
-* 2. Image Annotation Projects
-* 3. Video Annotation & Verification
-* 4. AI Agent Testing & Computer Use
+1. AI Evaluation & Text Annotation
+2. Image Annotation & Computer Vision
+3. Video Annotation & Verification
+4. AI Agents & Computer Use
 
-# AI Evaluation & Text Projects
+# 1. AI Evaluation & Text Annotation
 
-## 1. Content Moderation
+## 1.1 Content Moderation
 
 ### Skills Demonstrated
 
@@ -44,7 +44,7 @@
 
 
 
-## 2. Sentiment Analysis
+## 1.2 Sentiment Analysis
 
 ### Skills Demonstrated
 
@@ -58,7 +58,7 @@
 
 
 
- ## 3. Named Entity Recognition (NER)
+ ## 1.3 Named Entity Recognition (NER)
   Tool: LabelBox
   ### Project Summary
 Annotated text data by identifying and labeling entities such as People, Organizations, Locations, Dates, and other relevant entities. The annotations were reviewed for accuracy and consistency to support high-quality NLP datasets and AI systems.
@@ -83,13 +83,13 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 * Validate labels before dataset submission
 ---
 
-# Image Annotation Projects
+# 2. Image Annotation Projects
 
-## 1. Vehicle & Object Annotation
+## 2.1 Vehicle & Object Annotation
 Annotation Type: Bounding Box object annotation
 
-Tool: CVAT, V7, Labelbox, LabelImg, Classes Annotated
-
+Tool: CVAT, V7, Labelbox, LabelImg, 
+**Classes Annotated:**
 * Car
 * Bus
 * Van
@@ -120,7 +120,7 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
    
    <img src="./Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">
 
- ## 2. Image Segmentation & Polygon Annotation
+ ## 2.2 Image Segmentation & Polygon Annotation
 Annotation Type: Polygon & Segmentation Annotation       
 
 Tool: V7/CVAT
@@ -138,7 +138,7 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 ### Skills Demonstrated
 
-Polygon & Segmentation Annotation
+* Polygon & Segmentation Annotation
 * Keypoint Annotation
 * Object Boundary Precision
 * Human Contour & Pose Annotation
@@ -155,9 +155,9 @@ Polygon & Segmentation Annotation
 
 <img src="./gf3.jfif" width="600">
 
-# AI Agents & Computer Use
+# 3. AI Agents & Computer Use
 
-## 1. Video Annotation & action Verification
+## Video Annotation & action Verification
 
 ### Project Summary
 Reviewed and verified video annotations to ensure that objects, actions, descriptions, and their sequence accurately matched the visual content. This process helped maintain high-quality, consistent training data for AI systems that learn to understand activities and events in video.
