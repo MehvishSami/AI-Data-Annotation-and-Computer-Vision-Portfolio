@@ -163,6 +163,12 @@ Polygon & Segmentation Annotation
 ### Project Summary
 Reviewed and verified video annotations to ensure that objects, actions, descriptions, and their sequence accurately matched the visual content. This process helped maintain high-quality, consistent training data for AI systems that learn to understand activities and events in video.
 
+### Issues Faced During verfication
+
+* Identifying ambiguous or unclear actions.
+* Detecting description and sequence mismatches.
+* Handling partially visible or overlapping objects.
+
 ### Skills Demonstrated
 
 * Video Annotation
@@ -173,6 +179,8 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 * Error Detection
 * QA & Feedback
 * AI/ML Data Quality
+
+
 
 
   
