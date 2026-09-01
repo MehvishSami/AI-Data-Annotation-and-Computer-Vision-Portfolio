@@ -25,7 +25,7 @@
 1. AI Evaluation & Text Annotation
 2. Image Annotation & Computer Vision
 3. Video Annotation & Verification
-4. AI Agents & Computer Use
+4. AI Agents testing & Computer Use
 
 # 1. AI Evaluation & Text Annotation
 
