@@ -11,9 +11,9 @@
 
 *  AI Evaluation
 *  Data Annotation
-*  Annotation Quality Assurance (QA)
 *  AI Agent Testing & Evaluation
 *  Computer use and screen based task
+*  Annotation Quality Assurance (QA)
 
 
 ---
