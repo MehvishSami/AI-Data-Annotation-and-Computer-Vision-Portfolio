@@ -9,11 +9,17 @@
 ---
 ## Skills & Expertise
 
-*  AI Evaluation
-*  Data Annotation
-*  AI Agent Testing & Evaluation
-*  Computer use and screen based task
-*  Annotation Quality Assurance (QA)
+* AI Evaluation
+* Data Annotation & QA
+* Image Annotation
+* Video Annotation
+* Text & NLP Annotation
+* AI Agent Testing
+* Object & Action Verification
+* Error Detection & Correction
+* Computer Use & Screen-Based Tasks
+* Task Validation
+* Dataset Validation
 
 
 ---
