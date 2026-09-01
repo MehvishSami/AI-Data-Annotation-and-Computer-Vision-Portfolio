@@ -19,14 +19,9 @@
 ---
 # Projects
 
-1. AI Evaluation & Text Annotation
-2. Image Annotation & Computer Vision
-3. Video Annotation & Verification
-4. AI Agents testing & Computer Use
+# AI Evaluation & Text Annotation
 
-# 1. AI Evaluation & Text Annotation
-
-## 1.1 Content Moderation
+## 1. Content Moderation
 
 ### Skills Demonstrated
 
@@ -41,7 +36,7 @@
 
 
 
-## 1.2 Sentiment Analysis
+## 2. Sentiment Analysis
 
 ### Skills Demonstrated
 
@@ -55,7 +50,7 @@
 
 
 
- ## 1.3 Named Entity Recognition (NER)
+ ## 3. Named Entity Recognition (NER)
   Tool: LabelBox
   ### Project Summary
 Annotated text data by identifying and labeling entities such as People, Organizations, Locations, Dates, and other relevant entities. The annotations were reviewed for accuracy and consistency to support high-quality NLP datasets and AI systems.
@@ -80,9 +75,9 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 * Validate labels before dataset submission
 ---
 
-# 2. Image Annotation Projects
+# Image Annotation Projects
 
-## 2.1 Vehicle & Object Annotation
+## 1. Vehicle & Object Annotation
 Annotation Type: Bounding Box object annotation
 
 Tool: CVAT, V7, Labelbox, LabelImg, 
@@ -117,7 +112,7 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
    
    <img src="./Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">
 
- ## 2.2 Image Segmentation & Polygon Annotation
+ ## 2. Image Segmentation & Polygon Annotation
 Annotation Type: Polygon & Segmentation Annotation       
 
 Tool: V7/CVAT
@@ -152,9 +147,9 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 <img src="./gf3.jfif" width="600">
 
-# 3. AI Agents Testing & Computer Use
+# AI Agents Testing & Computer Use
 
-## Video Annotation & action Verification
+## 1. Video Annotation & action Verification
 
 ### Project Summary
 Reviewed and verified video annotations to ensure that objects, actions, descriptions, and their sequence accurately matched the visual content. This process helped maintain high-quality, consistent training data for AI systems that learn to understand activities and events in video.
