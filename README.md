@@ -155,7 +155,7 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 <img src="./gf3.jfif" width="600">
 
-# 3. AI Agents & Computer Use
+# 3. AI Agents Testing & Computer Use
 
 ## Video Annotation & action Verification
 
