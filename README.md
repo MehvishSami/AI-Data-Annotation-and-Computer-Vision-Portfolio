@@ -84,8 +84,7 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 # Image Annotation Projects
 
 ## 1. Vehicle & Object Annotation
-Annotation Type: Bounding Box object annotation
-
+Annotation Type: Bounding Box 
 Tool: CVAT, V7, Labelbox, LabelImg, 
 **Classes Annotated:**
 * Car
@@ -151,7 +150,7 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 <img src="./adiitional.jfif" width="600">
 
-<img src="./gf3.jfif" width="600">
+<img src="./polygone.jfif" width="600">
 
 # AI Agents Testing & Computer Use
 
