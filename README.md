@@ -176,6 +176,7 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 * QA & Feedback
 * AI/ML Data Quality
 
+<img src="./perfect%20(1).jfif" width="600">
 
 
 
