@@ -150,7 +150,7 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 <img src="./adiitional.jfif" width="600">
 
-<img src="./polygone.jfif" width="600">
+<img src="./pol.PNG" width="600">
 
 # AI Agents Testing & Computer Use
 
