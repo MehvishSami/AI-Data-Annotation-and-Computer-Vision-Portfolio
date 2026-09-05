@@ -1,4 +1,4 @@
-# AI Evaluation, Data Annotation and Computer Vision Portfolio
+# AI Evaluation, Data Annotation & AI Systems Portfolio
 
 # About Me
 
