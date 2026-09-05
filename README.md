@@ -38,8 +38,7 @@
 * Annotation Quality Assurance
 * Annotation Guideline Application
 
-<img src="./Gemini_Generated_Image_d33nngd33nngd33n.jfif" width ="600">
-
+<img src="./assets/Gemini_Generated_Image_d33nngd33nngd33n.jfif" width="600">
 
 
 ## 2. Sentiment Analysis
@@ -52,7 +51,7 @@
 * NLP Dataset Preparation
 * Annotation Quality Assurance
 
- <img src="./clean_table_no_header.png" width="350" style="image-rendering: crisp-edges;">
+ <img src="./assets/clean_table_no_header.png" width="350" style="image-rendering: crisp-edges;">
 
 
 
@@ -68,7 +67,7 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 * Entity Classification
 * Annotation Quality Assurance (QA)
 
- <img src="./text3.jfif" width ="600">
+ <img src="./assets/text3.jfif" width ="600">  
     
 ### Quality Assurance Approach
 
@@ -112,11 +111,11 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Vehicle identification
 * Pedestrian identification
 
- <img src="./WhatsApp%20Image%202026-08-27%20at%202.34.14%20PM.jpeg" width ="600">
-   
-   
-  <img src="./Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">
+ <img src="./assets/WhatsApp%20Image%202026-09-05%20at%203.08.02%20PM.jpeg" width ="600">
 
+   
+  <img src="./assets/Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">   
+  
  ## 2. Image Segmentation & Polygon Annotation
 Annotation Type: Polygon & Segmentation Annotation       
 
@@ -146,11 +145,11 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 • Sports & Player Annotation   • Traffic & Transportation Annotation   • Indoor & Kitchen Annotation 
 
-<img src="./combined-image.jpg" width="600">
+<img src="./assets/combined-image.jpg" width="600">         
 
-<img src="./adiitional.jfif" width="600">
+<img src="./assets/adiitional.jfif" width="600">     
 
-<img src="./pol.PNG" width="600">
+<img src="./assets/pol.PNG" width="600">   
 
 # AI Agents Testing & Computer Use
 
@@ -176,8 +175,8 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 * QA & Feedback
 * AI/ML Data Quality
 
-<img src="./w.png" width="600">
-<img src="./w1.png" width="600">
+<img src="./assets/w.png" width="600">  
+<img src="./assets/w1.png" width="600"> 
 
 
   
