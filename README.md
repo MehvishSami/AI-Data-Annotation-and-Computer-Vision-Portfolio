@@ -170,10 +170,8 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 * Action & Object Verification
 * Sequence Verification
 * Description Verification
-* Video QA
 * Error Detection
 * QA & Feedback
-* AI/ML Data Quality
 
 <img src="./assets/w.png" width="600">  
 <img src="./assets/w1.png" width="600"> 
