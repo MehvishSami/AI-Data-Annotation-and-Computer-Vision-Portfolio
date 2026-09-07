@@ -175,7 +175,7 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 <img src="./assets/w.png" width="600">  
 <img src="./assets/w1.png" width="600"> 
 
-## 2. AI Agents & Computer-Use Task Evaluation
+## 2. AI Agents & Computer-Use Task
 
 ### Project Summary
 Performed **screen-based computer-use tasks** by entering natural-language queries and completing the requested actions on desktop/web applications using **mouse clicks, keyboard actions, and hotkeys**. Each interaction was captured through screenshots to verify task execution, detect errors, and evaluate AI-agent reliability and accuracy.
