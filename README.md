@@ -203,6 +203,17 @@ Performed **screen-based computer-use tasks** by entering natural-language queri
   <img src="./assets/g.jfif" width="600">
 
 
+# Additional AI Skills
+
+* Machine Learning Model Training
+* API Development & Integration
+* Prompt Engineering
+
+# Contact
+
+LinkedIn: https://www.linkedin.com/in/mehvish-sami/
+
+
 
   
 
