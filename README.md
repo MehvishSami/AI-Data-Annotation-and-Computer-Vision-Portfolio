@@ -178,6 +178,34 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 <img src="./assets/w.png" width="600">  
 <img src="./assets/w1.png" width="600"> 
 
+## 2. AI Agents & Computer-Use Task Evaluation
+
+### Project Summary
+Performed **screen-based computer-use tasks** by entering natural-language queries and completing the requested actions on desktop/web applications using **mouse clicks, keyboard actions, and hotkeys**. Each interaction was captured through screenshots to verify task execution, detect errors, and evaluate AI-agent reliability and accuracy.
+
+**Accuracy:** ~97% task accuracy
+
+**Query:** *“Find a top-rated computer data storage product from the Lexar brand.”*
+
+* Step1 : Click on the "All" menu at the top left of the homepage.
+* Step2 : Opened “Computers” and selected “Data Storage.
+* Step 3: Navigated to the “Data Storage” page.
+* Step 4: Selected “Lexar” under Brands.
+* Step 5: Selected the top-rated product from the results.
+
+### Skills Demonstrated
+* Computer-Use Evaluation
+* UI Interaction
+* Task Execution
+* Screenshot-Based Validation
+* Error Detection
+* QA
+
+  <img src="./assets/new.jfif" width="600"> 
+  
+  <img src="./assets/g.jfif" width="600">
+
+
 
   
 
