@@ -203,7 +203,7 @@ Performed **screen-based computer-use tasks** by entering natural-language queri
   <img src="./assets/g.jfif" width="600">
 
 
-# Additional AI Skills
+# Additional AI Skills/Interests
 
 * Machine Learning Model Training
 * API Development & Integration
