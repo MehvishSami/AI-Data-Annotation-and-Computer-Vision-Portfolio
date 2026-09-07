@@ -101,7 +101,7 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Identified target objects
 * Assigned appropriate object classes
 * Reviewed annotations for errors
-* 
+  
 ### Skills Demonstrated
 
 * Bounding box quality control
