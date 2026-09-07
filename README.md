@@ -206,7 +206,7 @@ Performed **screen-based computer-use tasks** by entering natural-language queri
 # Additional AI Skills/Interests
 
 * Machine Learning Model Training
-* API Development & Integration
+* API Integration
 * Prompt Engineering
 
 # Contact
