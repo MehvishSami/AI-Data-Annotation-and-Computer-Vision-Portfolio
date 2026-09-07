@@ -98,11 +98,10 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 
 ### Work Performed:
 
-* Identified target objects in images
+* Identified target objects
 * Assigned appropriate object classes
 * Reviewed annotations for errors
-* Maintained consistency across large datasets
-
+* 
 ### Skills Demonstrated
 
 * Bounding box quality control
@@ -160,9 +159,9 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 
 ### Challenges Faced
 
-* Identifying ambiguous or unclear actions.
+* Identifying ambiguous actions.
 * Detecting description and sequence mismatches.
-* Handling partially visible or overlapping objects.
+* Overlapping objects.
 
 ### Skills Demonstrated
 
