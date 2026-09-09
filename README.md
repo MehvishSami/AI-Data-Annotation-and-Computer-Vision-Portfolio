@@ -196,9 +196,9 @@ Performed **screen-based computer-use tasks** by entering natural-language queri
 * Error Detection
 * QA
 
-  <img width="477" height="328" alt="Image" src="https://github.com/user-attachments/assets/925a43ba-cef1-4c82-ad9c-b835bf06de32" /> 
+<img width="477" height="328" alt="Image" src="https://github.com/user-attachments/assets/925a43ba-cef1-4c82-ad9c-b835bf06de32" /> 
   
-  <img width="1024" height="518" alt="Image" src="https://github.com/user-attachments/assets/2fc8a56d-ca5a-4d5c-abfe-c33a5f492963" />
+<img width="1024" height="518" alt="Image" src="https://github.com/user-attachments/assets/2fc8a56d-ca5a-4d5c-abfe-c33a5f492963" />
 
 
 # Additional AI Skills/Interests
