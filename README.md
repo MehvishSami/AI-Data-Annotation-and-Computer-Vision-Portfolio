@@ -38,8 +38,7 @@
 * Annotation Quality Assurance
 * Annotation Guideline Application
 
-<img src="./assets/Gemini_Generated_Image_d33nngd33nngd33n.jfif" width="600">
-
+<img width="380" height="200" alt="Image" src="https://github.com/user-attachments/assets/8ea641b2-6e77-4a4c-adba-5b6a922d7905" />
 
 ## 2. Sentiment Analysis
 
@@ -51,7 +50,7 @@
 * NLP Dataset Preparation
 * Annotation Quality Assurance
 
- <img src="./assets/clean_table_no_header.png" width="350" style="image-rendering: crisp-edges;">
+ <img width="1699" height="624" alt="Image" src="https://github.com/user-attachments/assets/577231bb-bc6b-4253-991c-b7308b9a2cb5" />
 
 
 
@@ -67,7 +66,7 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 * Entity Classification
 * Annotation Quality Assurance (QA)
 
- <img src="./assets/text3.jfif" width ="600">  
+ <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/text3.jfif" width="600">  
     
 ### Quality Assurance Approach
 
@@ -110,10 +109,10 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Vehicle identification
 * Pedestrian identification
 
- <img src="./assets/WhatsApp%20Image%202026-09-05%20at%203.08.02%20PM.jpeg" width ="600">
+ <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/WhatsApp%20Image%202026-09-05%20at%203.08.02%20PM.jpeg" width="600">
 
    
-  <img src="./assets/Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width ="600">   
+ <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width="600">   
   
  ## 2. Image Segmentation & Polygon Annotation
 Annotation Type: Polygon & Segmentation Annotation       
@@ -144,11 +143,11 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 • Sports & Player Annotation   • Traffic & Transportation Annotation   • Indoor & Kitchen Annotation 
 
-<img src="./assets/combined-image.jpg" width="600">         
+<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/combined-image.jpg" width="600">         
 
-<img src="./assets/adiitional.jfif" width="600">     
+<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/adiitional.jfif" width="600">     
 
-<img src="./assets/pol.PNG" width="600">   
+<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/pol.PNG" width="600">   
 
 # AI Agents Testing & Computer Use
 
@@ -172,8 +171,8 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 * Error Detection
 * QA & Feedback
 
-<img src="./assets/w.png" width="600">  
-<img src="./assets/w1.png" width="600"> 
+<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/w.png" width="600"> 
+<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/w1.png" width="600"> 
 
 ## 2. AI Agents & Computer-Use Task
 
@@ -198,9 +197,9 @@ Performed **screen-based computer-use tasks** by entering natural-language queri
 * Error Detection
 * QA
 
-  <img src="./assets/new.jfif" width="600"> 
+  <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/new.jfif" width="600"> 
   
-  <img src="./assets/g.jfif" width="600">
+  <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/g.jfif" width="600">
 
 
 # Additional AI Skills/Interests
