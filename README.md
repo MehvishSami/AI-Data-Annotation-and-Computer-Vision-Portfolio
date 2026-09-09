@@ -170,8 +170,8 @@ Reviewed and verified video annotations to ensure that objects, actions, descrip
 * Error Detection
 * QA & Feedback
 
-<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/w.png" width="600"> 
-<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/w1.png" width="600"> 
+<img width="1537" height="760" alt="Image" src="https://github.com/user-attachments/assets/16c471f8-fcd6-4d65-a38a-5ec5f3cae45f" /> 
+<img width="1264" height="713" alt="Image" src="https://github.com/user-attachments/assets/cb110f58-15c4-4549-96c0-cfde2711cc6a" /> 
 
 ## 2. AI Agents & Computer-Use Task
 
