@@ -142,11 +142,11 @@ Annotated diverse real-world images using precise polygon, segmentation, and key
 
 • Sports & Player Annotation   • Traffic & Transportation Annotation   • Indoor & Kitchen Annotation 
 
-<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/combined-image.jpg" width="600">         
+<img width="2126" height="588" alt="Image" src="https://github.com/user-attachments/assets/7ae9a6bf-067f-4c4a-942a-8cf561c85eba" />         
 
-<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/adiitional.jfif" width="600">     
+<img width="1024" height="434" alt="Image" src="https://github.com/user-attachments/assets/2e4492e3-536f-4a2f-a679-82ce28a4e293" />     
 
-<img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/pol.PNG" width="600">   
+<img width="969" height="577" alt="Image" src="https://github.com/user-attachments/assets/2fc19ff7-ab73-4d12-a781-b4fb367a36e3" />   
 
 # AI Agents Testing & Computer Use
 
