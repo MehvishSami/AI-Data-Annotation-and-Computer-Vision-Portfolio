@@ -38,7 +38,7 @@
 * Annotation Quality Assurance
 * Annotation Guideline Application
 
-<img width="380" height="200" alt="Image" src="https://github.com/user-attachments/assets/8ea641b2-6e77-4a4c-adba-5b6a922d7905" />
+<img width="1699" height="624" alt="Image" src="https://github.com/user-attachments/assets/577231bb-bc6b-4253-991c-b7308b9a2cb5" />
 
 ## 2. Sentiment Analysis
 
@@ -50,8 +50,7 @@
 * NLP Dataset Preparation
 * Annotation Quality Assurance
 
- <img width="1699" height="624" alt="Image" src="https://github.com/user-attachments/assets/577231bb-bc6b-4253-991c-b7308b9a2cb5" />
-
+ <img width="380" height="200" alt="Image" src="https://github.com/user-attachments/assets/8ea641b2-6e77-4a4c-adba-5b6a922d7905" />
 
 
  ## 3. Named Entity Recognition (NER)
@@ -66,7 +65,7 @@ Annotated text data by identifying and labeling entities such as People, Organiz
 * Entity Classification
 * Annotation Quality Assurance (QA)
 
- <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/text3.jfif" width="600">  
+<img width="1024" height="539" alt="Image" src="https://github.com/user-attachments/assets/cb485bcc-1563-4167-8c5b-f86a2e6903a9" />  
     
 ### Quality Assurance Approach
 
