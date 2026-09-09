@@ -108,10 +108,10 @@ Annotated traffic scene images by creating accurate bounding boxes around vehicl
 * Vehicle identification
 * Pedestrian identification
 
- <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/WhatsApp%20Image%202026-09-05%20at%203.08.02%20PM.jpeg" width="600">
+ <img width="1577" height="997" alt="Image" src="https://github.com/user-attachments/assets/e7f407fb-51e7-49ff-a4ff-b61caa6243b4" />
 
    
- <img src="https://raw.githubusercontent.com/MehvishSami/AI-Data-Annotation-and-Computer-Vision-Portfolio/main/assets/Gemini_Generated_Image_vs48t5vs48t5vs48.jfif" width="600">   
+<img width="1596" height="656" alt="Image" src="https://github.com/user-attachments/assets/07e0d1ba-e006-43a6-ac8e-f147760ce412" />   
   
  ## 2. Image Segmentation & Polygon Annotation
 Annotation Type: Polygon & Segmentation Annotation       
